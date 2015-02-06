@@ -2,7 +2,7 @@
 
 An Ektron workarea widget to display content recently edited by the current logged in user.
 
-This widget was developed and tested against Ektron 8.6.1.
+This widget was tested against Ektron 9sp2.
 
 ## Usage
 
